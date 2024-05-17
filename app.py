@@ -45,5 +45,8 @@ def download():
     
     return send_file(buffer, as_attachment=True, download_name=f"{yt.title}.{file_extension}", mimetype=mime_type)
 
+# if __name__ == '__main__':
+#     app.run(debug=False,host='0.0.0.0')
+
 if __name__ == '__main__':
-    app.run(debug=False,host='0.0.0.0')
+    app.run()
