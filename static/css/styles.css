@@ -88,7 +88,7 @@ body {
 .btn-success:hover {
     color: #fff;
     background-color: #0069d9;
-    border-color: #0069d9;
+    border-color: #a4d0ff
 }
 
 #loading {
@@ -108,13 +108,13 @@ body {
     margin-bottom: 1rem;
 }
 
-
 .footer {
     margin-top: 20px;
     font-size: 14px;
     color: #555;
+    align-items: center;
 }
 .footer a {
     color: #007AFF;
     text-decoration: none;
-        }
+}
