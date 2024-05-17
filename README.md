@@ -4,7 +4,7 @@ A simple web application that allows users to download YouTube videos in differe
 
 ## Live Demo
 
-- [https://theloko.me/club-coffee/](https://tubegrab-q1yq.onrender.com)
+- [TubeGrab](https://tubegrab-q1yq.onrender.com)
 
 ## Features
 
