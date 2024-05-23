@@ -24,7 +24,7 @@ A simple web application that allows users to download YouTube videos in differe
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/youtube-video-downloader.git
+git clone https://github.com/Student408/YouTube-Video-Downloader.git
 ```
 
 2. Navigate to the project directory:
